@@ -1,0 +1,13 @@
+.sidebar-item {
+  color: white;
+  padding: 12px 28px;
+}
+
+.sidebar-item:hover {
+  background-color: #009688;
+  cursor: pointer;
+}
+.sidebar-item-active{
+  background-color: #12746a;
+  cursor: pointer;
+}
